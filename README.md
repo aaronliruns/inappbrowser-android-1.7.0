@@ -1,6 +1,6 @@
 # inappbrowser-android-1.7.0
 
-Steps to manually upgrade inappbrowser android 1.2.1 to 1.7.0A
+Steps to manually upgrade inappbrowser android 1.2.1 to 1.7.0
 
 * Copy InAppBrowser.java and InAppBrowserDialog.java to KE_cordova_wrapper/AndroidWrapperKE/src/org/apache/cordova/inappbrowser/ overwriting the existing ones
 
